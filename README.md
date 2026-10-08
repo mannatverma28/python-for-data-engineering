@@ -10,3 +10,6 @@ A Python command-line program that compares a flight baggage manifest with scann
 
 ## Run tests
 python -m unittest -v test_reconcile.py
+
+## Usage
+Run the reconciliation script using the project instructions.
