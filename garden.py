@@ -38,3 +38,4 @@ if __name__ == "__main__":
     new_plant = ask_for_plant()
     if new_plant is not None:
         water_all([new_plant])
+    # Improved garden project documentation
