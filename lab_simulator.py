@@ -85,3 +85,4 @@ def main():
 if __name__ == "__main__":
     main()
     
+# This module simulates laboratory experiment steps and safety checks.
