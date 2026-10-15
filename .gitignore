@@ -14,3 +14,10 @@ vendor/
 __pycache__/
 *.log
 # <<< project guide (managed) <<<
+.vscode/
+node_modules/
+vendor/
+.venv/
+pycache/
+*.pyc
+*.log
